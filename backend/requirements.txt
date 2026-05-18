@@ -1,0 +1,44 @@
+# ── Web framework ─────────────────────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+python-multipart
+
+# ── Image processing ──────────────────────────────────────────────────────────
+numpy<2
+opencv-python
+pillow
+
+# ── PDF ───────────────────────────────────────────────────────────────────────
+pymupdf
+reportlab
+
+passlib[bcrypt]
+python-jose[cryptography]
+sqlalchemy
+bcrypt==3.1.7
+regex
+
+# Image processing (headless)
+opencv-python-headless
+
+
+
+
+
+# Utilities
+pyyaml
+tqdm
+requests
+# ── Wall segmentation inference ───────────────────────────────────────────────
+# mmcv and mmsegmentation must match your PyTorch + CUDA version.
+# Check your version first:
+#   python -c "import torch; print(torch.__version__, torch.version.cuda)"
+#
+# Then install with:
+#   pip install -U openmim
+#   mim install mmcv==2.1.0
+#   mim install mmsegmentation
+#
+# If mim cannot find a prebuilt wheel, use the direct index:
+#   pip install mmcv==2.1.0 -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.12.0/index.html
+#   mim install mmsegmentation

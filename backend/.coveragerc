@@ -1,0 +1,7 @@
+[run]
+omit =
+    services/reporting.py
+    export_pdf.py
+    segformer_b2_wall.py
+    tests/*
+    database.py

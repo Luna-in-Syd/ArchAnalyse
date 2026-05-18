@@ -1,0 +1,5 @@
+# Test dependencies — install alongside backend/requirements.txt
+pytest>=7.4
+pytest-asyncio>=0.23
+httpx>=0.24          # required by FastAPI TestClient
+# All production deps from requirements.txt must also be installed.
