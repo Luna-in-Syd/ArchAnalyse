@@ -1,6 +1,6 @@
 # ArchAnalyse — Architectural Drawing Intelligence System
 
-A web application that helps structural engineers analyse architectural floor plans using deep learning. Built by a team of 3.
+A web application for analyzing architectural floor plans based on the SegWallFormer model. Built by a team of 3 (Listed in no particular order).
 
 **Hiking (Huaiqin) Shi · Boning Zhang · Luna (Ruitong) Zhang**
 
