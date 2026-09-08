@@ -28,7 +28,7 @@ ArchAnalyse uses the **SegFloorFormer** model with LoRA-based transfer learning 
 |---|---|
 | Frontend | React 19, React Router, Vite |
 | Backend | FastAPI, SQLAlchemy, SQLite, JWT |
-| ML | SegFormer-B2, mmcv 2.1.0, mmsegmentation, PyTorch |
+| ML | SegFloorFormer, mmcv 2.1.0, mmsegmentation, PyTorch |
 | Infrastructure | Docker, Docker Compose |
 
 ---
@@ -43,7 +43,7 @@ ArchAnalyse uses the **SegFloorFormer** model with LoRA-based transfer learning 
 │   ├── models.py                   # SQLAlchemy ORM models
 │   ├── database.py                 # Database configuration
 │   ├── export_pdf.py               # Segmentation PDF export
-│   ├── segformer_b2_wall.py        # Model configuration
+│   ├── SegFloorFormer.py        # Model configuration
 │   ├── requirements.txt
 │   ├── tests/                      # 86 automated tests
 │   │   ├── conftest.py
