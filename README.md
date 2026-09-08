@@ -8,7 +8,7 @@ A web application for analyzing architectural floor plans based on the SegWallFo
 
 ## Overview
 
-ArchAnalyse applies a fine-tuned **SegFormer-B2** model to detect and extract wall regions from floor plan images, achieving **81.3% mIoU** on the CubiCasa5K dataset. The system includes user authentication, batch processing with real-time progress streaming, segmentation history, and PDF export.
+ArchAnalyse applies a fine-tuned **SegWallFormer** model to detect and extract wall regions from floor plan images, achieving **81.3% mIoU** (SOTA) on the CubiCasa5K dataset. The system includes user authentication, batch processing with real-time progress streaming, segmentation history, and PDF export.
 
 ---
 
