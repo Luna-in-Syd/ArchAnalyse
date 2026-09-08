@@ -1,6 +1,6 @@
 # ArchAnalyse — Architectural Analyzing Intelligence System
 
-A web application for analyzing architectural floor plans, based on the SegWallFormer model and jointly developed by UNSW and URBANSPEC ENGINEERING PTY LTD. A three-person team from UNSW (Listed in no particular order).
+A web application for analyzing architectural floor plans, based on the SegFloorFormer model and jointly developed by UNSW and URBANSPEC ENGINEERING PTY LTD. A three-person team from UNSW (Listed in no particular order).
 
 **Hiking (Huaiqin) Shi · Boning Zhang · Luna (Ruitong) Zhang**
 
