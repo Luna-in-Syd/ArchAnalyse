@@ -1,18 +1,6 @@
 # SegFloorFormer
 # 2 classes: 0=background, 1=wall
-#
-# 使用前需要先执行以下步骤:
-#
-# 1. 重命名 mask 文件，使文件名与图像一致:
-#    python rename_masks.py
-#
-# 2. 生成 list 文件:
-#    python gen_lists.py
-#
-# 目录结构:
-#   data/cubicasa5k/high_quality_architectural/22/F1_original.png  (图像)
-#   wall_masks/train/high_quality_architectural/22/F1_original.png  (mask)
-#   seg_lists/train_list.txt  (每行: high_quality_architectural/22)
+
 
 norm_cfg = dict(type='BN', requires_grad=True)
 
