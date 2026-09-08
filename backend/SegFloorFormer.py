@@ -1,4 +1,4 @@
-# SegFormer-B2 Wall Segmentation Config
+# SegFloorFormer
 # 2 classes: 0=background, 1=wall
 #
 # 使用前需要先执行以下步骤:
