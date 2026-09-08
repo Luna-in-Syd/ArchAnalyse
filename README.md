@@ -1,4 +1,4 @@
-# ArchAnalyse — Architectural Drawing Intelligence System
+# ArchAnalyse — Architectural Analyzing Intelligence System
 
 A web application for analyzing architectural floor plans based on the SegWallFormer model. Built by a team of 3 (Listed in no particular order).
 
