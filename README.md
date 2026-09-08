@@ -98,7 +98,7 @@ Once running, open **http://localhost** in your browser.
 
 ## Model Weights
 
-The SegFormer checkpoint (`backend/best_mIoU_iter.pth`) is not included in this repository due to file size (~100 MB).
+The model checkpoint (`backend/best_mIoU_iter.pth`) is not included in this repository due to file size (~100 MB).
 
 Download and place it at `backend/best_mIoU_iter.pth` before starting.
 
