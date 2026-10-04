@@ -2,7 +2,7 @@
 
 A web application for analyzing architectural floor plans, based on the SegFloorFormer model and jointly developed by UNSW and URBANSPEC ENGINEERING PTY LTD.
 
-**Primary contributors:**&#8203; Luna (Ruitong) Zhang (client interface, requirements definition, delivery and acceptance) · Hiking (Huaiqin) Shi · Boning Zhang
+**Primary contributors:**&#8203; Luna (Ruitong) Zhang · Hiking (Huaiqin) Shi · Boning Zhang
 
 
 ---
